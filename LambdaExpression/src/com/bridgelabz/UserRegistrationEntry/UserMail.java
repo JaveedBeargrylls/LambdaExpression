@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.regex.Pattern;
 
 @FunctionalInterface
-interface userEntry {
+interface userEmail {
   void UserEntryValidation();
 }
 class UserEmail{
