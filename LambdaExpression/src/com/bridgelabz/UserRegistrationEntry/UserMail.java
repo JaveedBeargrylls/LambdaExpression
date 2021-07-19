@@ -30,6 +30,7 @@ class UserEmail{
 		{
 			System.out.println("Email is Not Valid");
 		}
+		sc.close();
     };
 }
 public class UserMail {
